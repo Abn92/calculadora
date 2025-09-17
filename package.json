@@ -1,0 +1,25 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Uma calculadora simples em TypeScript.",
+  "main": "src/app.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.1",
+    "typescript": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seuusuario/calculadora.git"
+  },
+  "keywords": [
+    "calculadora",
+    "typescript",
+    "math"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT"
+}
